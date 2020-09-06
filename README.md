@@ -1,9 +1,5 @@
 ### I'm  Ahmet Zumberoglu, a computer engineering student in Istanbul.
 
-- 🔭   I’m currently working on a Java Spring Boot/MVC!
-- 🌱   I’m currently learning everything 🤣
-- 🥅   2020 Goals: Learn DevOps concepts.
-
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
