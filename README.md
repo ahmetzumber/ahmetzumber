@@ -1,4 +1,4 @@
-### I'm  Ahmet Zumberoglu, a computer engineering student in Istanbul.
+## I'm  Ahmet Zumberoglu, a computer engineering student in Istanbul.
 
 ### Connect with me:
 
